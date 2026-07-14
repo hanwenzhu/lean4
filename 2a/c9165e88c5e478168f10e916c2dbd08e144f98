@@ -1,0 +1,39 @@
+src/Lean/Replay.lean
+  h_dccb999493a5c5 197 gitai:{"mixed_line_ranges":[{"Single":197}],"operations":[]}
+tests/elab/issue12819.lean
+  h_dccb999493a5c5 14
+tests/pkg/leanchecker/LeanCheckerTests/QuotEq.lean
+  h_dccb999493a5c5 31
+src/LeanChecker.lean
+  h_dccb999493a5c5 33-34,38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2ac9165e88c5e478168f10e916c2dbd08e144f98",
+  "prompts": {},
+  "humans": {
+    "h_dccb999493a5c5": {
+      "author": "Thomas Zhu <thomaszhu@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {
+    "src/Lean/Replay.lean": [
+      {
+        "hash": "h_dccb999493a5c5",
+        "line_ranges": [
+          {
+            "Single": 197
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 197
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
