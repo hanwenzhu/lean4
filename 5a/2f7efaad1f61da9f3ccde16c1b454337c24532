@@ -1,0 +1,16 @@
+src/Lean/Replay.lean
+  h_dccb999493a5c5 24,171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5a2f7efaad1f61da9f3ccde16c1b454337c24532",
+  "prompts": {},
+  "humans": {
+    "h_dccb999493a5c5": {
+      "author": "Thomas Zhu <thomaszhu@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
